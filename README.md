@@ -1,2 +1,3 @@
 # Tensorflow_learning
-# Tensorflow_learning
+哔哩哔哩上炼数成金的公开课笔记
+学习并参考了https://github.com/bruce1408/tensorflow-learning/tree/4f6239be752a95ea7711a01ed4540b629970d2cc
